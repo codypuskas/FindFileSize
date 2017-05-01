@@ -1,0 +1,6 @@
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\bin\Debug\FindFileSize.exe.config
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\bin\Debug\FindFileSize.exe
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\bin\Debug\FindFileSize.pdb
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\obj\Debug\FindFileSize.csprojResolveAssemblyReference.cache
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\obj\Debug\FindFileSize.exe
+C:\Woolpert\C#\Projects\FindFileSize\FindFileSize\obj\Debug\FindFileSize.pdb
